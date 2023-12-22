@@ -1,7 +1,7 @@
 ![logo](https://github.com/patelkush/patelkush/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kush Patel</h1>
 <h3 align="center">Coding DNA</h3>
-
+<img align="center" alt="coding" width="1920" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelkush&label=Profile%20views&color=0e75b6&style=flat" alt="patelkush" /> </p>
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/patelkush" target="blank"><img src="https://img.shields.io/twitter/follow/patelkush?logo=twitter&style=for-the-badge" alt="patelkush" /></a> </p>
 
-<img align="center" alt="coding" width="700" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+
 - 🔭 I’m currently working on **Sample Manager**
 
 - 👯 I’m looking to collaborate on **Automation Projects**
